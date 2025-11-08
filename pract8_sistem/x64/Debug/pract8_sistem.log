@@ -1,0 +1,4 @@
+﻿  pract8_sistem.cpp
+C:\Users\st310-06\Desktop\Сагутдинова\pract8_sistem\pract8_sistem.cpp(43,22): warning C4244: аргумент: преобразование "ULONGLONG" в "unsigned int", возможна потеря данных
+C:\Users\st310-06\Desktop\Сагутдинова\pract8_sistem\pract8_sistem.cpp(48,44): warning C4312: приведение типов: преобразование из "int" в "void *" большего размера
+  pract8_sistem.vcxproj -> C:\Users\st310-06\Desktop\Сагутдинова\pract8_sistem\x64\Debug\pract8_sistem.exe
